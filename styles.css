@@ -35,10 +35,6 @@ input{
     grid-gap: 10px;
 }
 
-.igual{
-    grid-column: 3/5;
-}
-
 button{
     height: 5rem;
     font-weight: bold;
